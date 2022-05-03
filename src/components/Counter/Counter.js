@@ -1,5 +1,5 @@
 function Counter() {
-    let quantity = 10;
+    let quantity = 1;
 
     function upQuantity() {
         quantity = quantity + 1;
